@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from "vue-router";
     <div class="logoContainer">
       <RouterLink to="/">
         <img
-          alt="Vue logo"
+          alt="App logo"
           class="logo"
           :class="{ rotating: $route.path === '/' }"
           src="./assets/logo-s.svg"
@@ -109,7 +109,7 @@ nav a:first-of-type {
   }
 
   main {
-    height: calc(100vh - 61px);
+    height: calc(100vh - 67px);
     overflow: auto;
   }
 }
