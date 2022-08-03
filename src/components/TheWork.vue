@@ -39,12 +39,12 @@ export default defineComponent({
           id: 1,
           header: "NutriCal",
           description: "Healthy food at your doorstep.",
-          img: "../assets/project1.png",
+          img: "./assets/project1.png",
           body: [
             {
               id: "ov",
               header: "Overview",
-              img: "../assets/p1_ov.png",
+              img: "./assets/p1_ov.png",
               main: "NutriCal is health-centric food ordering app. We help our users make informed choices when it comes to food. Our users can explore the nutrient profile, customize the ingredients to suit their health goals.",
               sections: [
                 {
@@ -64,7 +64,7 @@ export default defineComponent({
             {
               id: "rx",
               header: "Research",
-              img: "../assets/p1_rx.png",
+              img: "./assets/p1_rx.png",
               main: "NutriCal is health-centric food ordering app. We help our users make informed choices when it comes to food. Our users can explore the nutrient profile, customize the ingredients to suit their health goals.",
               sections: [
                 {
@@ -91,20 +91,20 @@ export default defineComponent({
                   id: "s1",
                   header: "Paper Wireframes",
                   content: "",
-                  img: "../assets/p1_pwf.png",
+                  img: "./assets/p1_pwf.png",
                 },
                 {
                   id: "s2",
                   header: "Digital Wireframes",
                   content: "",
-                  img: "../assets/p1_lfp.png",
+                  img: "./assets/p1_lfp.png",
                 },
               ],
             },
             {
               id: "tx",
               header: "Usability Tests",
-              img: "../assets/p1_tx.png",
+              img: "./assets/p1_tx.png",
               main: "I conducted 2 rounds of usability studies that lead that helped revise some design choices to better suit the user base.",
             },
             {
@@ -117,13 +117,13 @@ export default defineComponent({
                   id: "s1",
                   header: "Main User Flow",
                   content: "",
-                  img: "../assets/p1_muf.png",
+                  img: "./assets/p1_muf.png",
                 },
                 {
                   id: "s2",
                   header: "High Fidelity Prototype",
                   content: "",
-                  img: "../assets/p1_hfp.png",
+                  img: "./assets/p1_hfp.png",
                 },
               ],
             },
@@ -137,13 +137,13 @@ export default defineComponent({
                   id: "s1",
                   header: "Impact",
                   content: "",
-                  img: "../assets/p1_impact.png",
+                  img: "./assets/p1_impact.png",
                 },
                 {
                   id: "s2",
                   header: "What I learned",
                   content: "",
-                  img: "../assets/p1_wil.png",
+                  img: "./assets/p1_wil.png",
                 },
               ],
             },
@@ -153,12 +153,12 @@ export default defineComponent({
           id: 2,
           header: "Optrade",
           description: "Gateway to F&O trading.",
-          img: "../assets/project2.png",
+          img: "./assets/project2.png",
           body: [
             {
               id: "ov",
               header: "Overview",
-              img: "../assets/p2_ov.png",
+              img: "./assets/p2_ov.png",
               main: "NutriCal is health-centric food ordering app. We help our users make informed choices when it comes to food. Our users can explore the nutrient profile, customize the ingredients to suit their health goals.",
               sections: [
                 {
@@ -178,7 +178,7 @@ export default defineComponent({
             {
               id: "rx",
               header: "Research",
-              img: "../assets/p2_rx.png",
+              img: "./assets/p2_rx.png",
               main: "NutriCal is health-centric food ordering app. We help our users make informed choices when it comes to food. Our users can explore the nutrient profile, customize the ingredients to suit their health goals.",
               sections: [
                 {
@@ -205,20 +205,20 @@ export default defineComponent({
                   id: "s1",
                   header: "Paper Wireframes",
                   content: "",
-                  img: "../assets/p2_pwf.png",
+                  img: "./assets/p2_pwf.png",
                 },
                 {
                   id: "s2",
                   header: "Digital Wireframes",
                   content: "",
-                  img: "../assets/p2_lfp.png",
+                  img: "./assets/p2_lfp.png",
                 },
               ],
             },
             {
               id: "tx",
               header: "Usability Tests",
-              img: "../assets/p2_tx.png",
+              img: "./assets/p2_tx.png",
               main: "I conducted 2 rounds of usability studies that lead that helped revise some design choices to better suit the user base.",
             },
             {
@@ -231,13 +231,13 @@ export default defineComponent({
                   id: "s1",
                   header: "Main User Flow",
                   content: "",
-                  img: "../assets/p2_muf.png",
+                  img: "./assets/p2_muf.png",
                 },
                 {
                   id: "s2",
                   header: "High Fidelity Prototype",
                   content: "",
-                  img: "../assets/p2_hfp.png",
+                  img: "./assets/p2_hfp.png",
                 },
               ],
             },
@@ -251,13 +251,13 @@ export default defineComponent({
                   id: "s1",
                   header: "Impact",
                   content: "",
-                  img: "../assets/p2_impact.png",
+                  img: "./assets/p2_impact.png",
                 },
                 {
                   id: "s2",
                   header: "What I learned",
                   content: "",
-                  img: "../assets/p2_wil.png",
+                  img: "./assets/p2_wil.png",
                 },
               ],
             },
@@ -267,12 +267,12 @@ export default defineComponent({
           id: 3,
           header: "YouThePeople",
           description: "Bridge between You and the Government.",
-          img: "../assets/project3.png",
+          img: "./assets/project3.png",
           body: [
             {
               id: "ov",
               header: "Overview",
-              img: "../assets/p3_ov.png",
+              img: "./assets/p3_ov.png",
               main: "NutriCal is health-centric food ordering app. We help our users make informed choices when it comes to food. Our users can explore the nutrient profile, customize the ingredients to suit their health goals.",
               sections: [
                 {
@@ -292,7 +292,7 @@ export default defineComponent({
             {
               id: "rx",
               header: "Research",
-              img: "../assets/p3_rx.png",
+              img: "./assets/p3_rx.png",
               main: "NutriCal is health-centric food ordering app. We help our users make informed choices when it comes to food. Our users can explore the nutrient profile, customize the ingredients to suit their health goals.",
               sections: [
                 {
@@ -319,20 +319,20 @@ export default defineComponent({
                   id: "s1",
                   header: "Paper Wireframes",
                   content: "",
-                  img: "../assets/p3_pwf.png",
+                  img: "./assets/p3_pwf.png",
                 },
                 {
                   id: "s2",
                   header: "Digital Wireframes",
                   content: "",
-                  img: "../assets/p3_lfp.png",
+                  img: "./assets/p3_lfp.png",
                 },
               ],
             },
             {
               id: "tx",
               header: "Usability Tests",
-              img: "../assets/p3_tx.png",
+              img: "./assets/p3_tx.png",
               main: "I conducted 2 rounds of usability studies that lead that helped revise some design choices to better suit the user base.",
             },
             {
@@ -345,13 +345,13 @@ export default defineComponent({
                   id: "s1",
                   header: "Main User Flow",
                   content: "",
-                  img: "../assets/p3_muf.png",
+                  img: "./assets/p3_muf.png",
                 },
                 {
                   id: "s2",
                   header: "High Fidelity Prototype",
                   content: "",
-                  img: "../assets/p3_hfp.png",
+                  img: "./assets/p3_hfp.png",
                 },
               ],
             },
@@ -365,13 +365,13 @@ export default defineComponent({
                   id: "s1",
                   header: "Impact",
                   content: "",
-                  img: "../assets/p3_impact.png",
+                  img: "./assets/p3_impact.png",
                 },
                 {
                   id: "s2",
                   header: "What I learned",
                   content: "",
-                  img: "../assets/p3_wil.png",
+                  img: "./assets/p3_wil.png",
                 },
               ],
             },
