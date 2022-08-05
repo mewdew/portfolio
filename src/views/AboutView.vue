@@ -15,17 +15,17 @@
           <h3>Get in Touch</h3>
           <div class="icons flexRow">
             <span>
-              <a href="https://www.facebook.com/shivangi.sinha.profile/">
+              <a href="https://www.facebook.com/shivangi.sinha.profile/" target="_blank">
                 <img src="../assets/fb.svg" alt="fb" />
               </a>
             </span>
             <span>
-              <a href="https://www.instagram.com/shivangi_sinha/">
+              <a href="https://www.instagram.com/shivangi_sinha/" target="_blank">
                 <img src="../assets/insta.svg" alt="insta" />
               </a>
             </span>
             <span>
-              <a href="https://twitter.com/that_sinha">
+              <a href="https://twitter.com/that_sinha" target="_blank">
                 <img src="../assets/twitter.svg" alt="twitter" />
               </a>
             </span>
